@@ -1,4 +1,5 @@
-# chatApp
+# Simple real-time Chat Application 
 A simple chat application using node.js and socket.io
 
-deployed on https://v2-chat.herokuapp.com/
+# Deployed on 
+### https://v2-chat.herokuapp.com/
